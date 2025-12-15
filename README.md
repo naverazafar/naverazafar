@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspriring software developer building projects to strengthen my skills and gain real-world experience. I also graduated from the Computer Information Technology (CIT) program at BCIT!
+
+I'm exploring coding projects and applications that challenge me and help me learn new technologies.
+
