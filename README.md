@@ -19,3 +19,7 @@ I'm an aspriring software developer building projects to strengthen my skills an
 
 I'm exploring coding projects and applications that challenge me and help me learn new technologies.
 
+Skills: Python, JavaScript, TypeScript, HTML, CSS, Node.js, SQL, Git, Linux, Docker, AWS, GCP, Azure, Agile/Scrum
+
+How to reach me: naverazafar23@gmail.com
+Linkedin: www.linkedin.com/in/navera-zafar-44b47b190
